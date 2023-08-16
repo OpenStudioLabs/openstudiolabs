@@ -1,6 +1,6 @@
 ---
 title: "Parris Lucas"
-date: 2023-08-01T12:00:00-5:00
+date: 2023-08-01T12:00:00-05:00
 image: "images/team/parris-lucas.jpg"
 jobtitle: "Founder"
 linkedinurl: "https://www.linkedin.com/in/parrislucas"
