@@ -1,4 +1,5 @@
-baseurl: '/'
+remote_theme: 'zerostaticthemes/jekyll-serif-theme'
+baseurl: '/openstudiolabs'
 permalink: pretty
 title: 'Jekyll Serif'
 
