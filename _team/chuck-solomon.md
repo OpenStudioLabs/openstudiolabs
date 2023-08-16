@@ -1,9 +1,10 @@
 ---
 title: "Parris Lucas"
-date: 2023-08-01T12:10:00-05:00
-image: "images/team/chuck-solmon.jpg"
+date: 2018-11-19T10:47:58+10:00
+image: ""
 jobtitle: "Founder"
 linkedinurl: "https://www.linkedin.com/in/chucksolomon1/"
+promoted: true
 weight: 2
 ---
 
