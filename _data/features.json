@@ -1,27 +1,9 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Open Source Professional Contributors",
+    "description": "Open Studio Labs is an enterprise software contributor dedicated to ensuring the continuing success of Open Source software projects operate smoothly. We collaborate with the industry maintainers to audit issues and contribute code so the community sustains healthy enterprise software integrity.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
       "height": 80
     }

@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+#  Guide, maintain, and practice OPEN
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Open Studio Labs is an enterprise software contributor dedicated to ensuring the continuing success of Open Source software projects operates smoothly. We collaborate with industry maintainers to audit issues and contribute code so the community sustains healthy enterprise software integrity.
+
