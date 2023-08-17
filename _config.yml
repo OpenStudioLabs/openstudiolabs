@@ -5,18 +5,18 @@ title: 'Open Studio Labs'
 logo:
   mobile: "images/logo/logo-mobile.jpg"
   # mobile_height: "32px"
-  # mobile_width: "32px"
+  mobile_width: "32px"
   desktop: "images/logo/logo.jpg"
   # desktop_height: "32px"
-  # desktop_width: "120px"
+  desktop_width: "120px"
 
-# home: 
-#   limit_services: 6
+home: 
+  limit_services: 6
 
-# collections:
-#   services:
-#     output: true
-#     sort_by: weight
-#   team:
-#     output: true
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: true
 
