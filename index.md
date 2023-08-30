@@ -6,10 +6,13 @@ intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
+
 ---
 
 # Open Studio Labs
 
-We make upstream Enterprise Open Source Software for a Better World.
+*Open Studio Labs* is developing a **Development-as-a-Service (DaaS)** platform to help product managers enhance and secure open-source software they depend upon via an *Engineering Residency* program.
 
-We cultivate next-gen engineers today to develop commercial Open Source technologies to create a better inclusive Community.
+We make upstream **Enterprise Open Source Software** for a *Better World*.
+
+Our *Engineering Residency* cultivates **next-gen** engineers who contribute to the open-source software depended upon by most technology companies.
