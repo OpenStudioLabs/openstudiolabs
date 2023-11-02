@@ -5,11 +5,15 @@ description:  About
 bodyClass:  page-about
 ---
 
-Open Studio Labs is a Research & Development company contributing to Commercial Enterprise Open Source projects like Kubernetes and NodeJS. Cultivate reliable-trained Open Source Software engineers.
+Open Source Research & Development-as-a-Service
 
 # Summary
 
-Open Studio Lab (OSSLab) is a Commercial Research & Development Lab. Delivering highly trained Open Source Software (OSS) Engineers ready to contribute to Commercial OSS enterprises such as Automattic, Black Duck, and Red Hat. The four-(4) year residency program focuses on the following Open Source domains.
+We're an Open Source Research & Development-as-a-Service company. Helping Maintainers by creating new open-source features, fixing bugs to decrease technical debt and addressing cybersecurity issues.
+
+If you're a maintainer, please get in touch.
+
+Our Diverse Engineering Residency team focuses on the following Open Source domains.
 
 | Culture           | Resource                |
 | ----------------- | ----------------------- |
