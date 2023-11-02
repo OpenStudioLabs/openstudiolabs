@@ -9,7 +9,7 @@ Open Source Research & Development-as-a-Service
 
 # Summary
 
-We're an Open Source Research & Development-as-a-Service company. Helping Maintainers by creating new open-source features, fixing bugs to decrease technical debt and addressing cybersecurity issues.
+We're an Open Source Research & Development-as-a-Service company. Helping Maintainers create new open-source features, fixing bugs to decrease technical debt and addressing cybersecurity issues.
 
 If you're a maintainer, please get in touch.
 
