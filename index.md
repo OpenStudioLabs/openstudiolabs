@@ -15,4 +15,4 @@ We're an Open Source Research & Development-as-a-Service company. Helping Mainta
 
 If you're a **Maintainer**, seeking engineering support for your project, please contact us.
 
-**Sponsors** needed to support our work, please contact us to learn the many benefits of sponsoring.
+**Sponsors** are needed to fund our work, please contact us to learn the many benefits of sponsoring.
