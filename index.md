@@ -11,8 +11,6 @@ show_call_box: true
 
 # Open Studio Labs
 
-*Open Studio Labs* is developing a **Development-as-a-Service (DaaS)** platform to help product managers enhance and secure open-source software they depend upon via an *Engineering Residency* program.
+We're an Open Source Research & Development-as-a-Service company. Helping Maintainers create new open-source features, fix bugs to decrease technical debt and address cybersecurity issues.
 
-We make upstream **Enterprise Open Source Software** for a *Better World*.
-
-Our *Engineering Residency* cultivates **next-gen** engineers who contribute to the open-source software depended upon by most technology companies.
+If you're a *Maintainer*, seeking support for your project, please get in touch.
