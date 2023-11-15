@@ -6,7 +6,7 @@ bodyClass:  page-about
 
 ---
 
-Open Studio Labs is an Open Source Research & Development-as-a-Service (RDaaS)company headquartered in Durham, NC. Our RDaaS day-to-day focus is to add industry-requested new features, fix bugs, and address security issues to commercial OSS projects and their dependencies that impact the following:
+Open Studio Labs is an Open Source Research & Development-as-a-Service (RDaaS)company headquartered in Durham, NC. Our RDaaS helps sponsors deliver quality products and assists Maintainers by adding new features, fixing bugs, and addressing security issues to commercial OSS projects and their dependencies that impact the following:
 - Linux Foundation 
 - Cloud-Native Foundation
 - OpenJS Foundation
