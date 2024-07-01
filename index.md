@@ -11,8 +11,8 @@ show_call_box: true
 
 # Open Studio Labs
 
-We're an Open Source Research & Development-as-a-Service company. Helping Maintainers create new open-source features, fix bugs to decrease technical debt and address cybersecurity issues.
+We understand Open-Source Software and the issues companies face when they utilize OSS. 
+Too often, companies have become accustomed to tackling the tasks of getting new features, fixing bug issues, and enhancing cybersecurity via workarounds or pestering the Maintainer.
+Our solution delivers engineering support to under-resourced OSS projects, ultimately helping companies reduce their technical debt.
 
-If you're a **Maintainer**, seeking engineering support for your project, please contact us.
 
-**Sponsors** are needed to fund our work, please contact us to learn the many benefits of sponsoring.
