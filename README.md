@@ -11,7 +11,7 @@ Open Source Research & Development-as-a-Service
 
 We're an *Open-Source* Research and development-as-a-service company that Helps Maintainers create new open-source features, fix bugs to decrease technical debt, and address cybersecurity issues.
 
-We support Maintainers in creating new open-source features, fixing bugs to decrease technical debt, and addressing cybersecurity issues. If you're a **Maintainer ** seeking engineering support for your project, please [contact us](mailto:info@openstudiolabs.com).
+We support *maintainers* in creating new open-source features, fixing bugs to decrease technical debt, and addressing cybersecurity issues. If you're a **maintainer** seeking engineering support for your project, please [contact us](mailto:info@openstudiolabs.com).
 
 **Sponsors** are needed to fund our work. Please [contact us](mailto:info@openstudiolabs.com) to learn the many benefits of sponsoring.
 
