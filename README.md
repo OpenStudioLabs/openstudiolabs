@@ -5,7 +5,7 @@ description:  About
 bodyClass:  page-about
 ---
 
-Open Source Research & Development-as-a-Service
+[Open Studio Labs](https://OpenStudioLabs.com) - Open Source Research & Development-as-a-Service (DaaS)
 
 # Summary
 
