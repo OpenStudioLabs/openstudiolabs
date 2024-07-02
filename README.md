@@ -1,4 +1,6 @@
-# [Open Studio Labs](https://OpenStudioLabs.com) - Open Source Research & Development-as-a-Service (DaaS)
+# [Open Studio Labs](https://OpenStudioLabs.com)
+
+Open Source *Research & Development-as-a-Service* (DaaS)
 
 ## Summary
 
