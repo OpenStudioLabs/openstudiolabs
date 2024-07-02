@@ -9,7 +9,7 @@ Open Source Research & Development-as-a-Service
 
 # Summary
 
-We're an *Open-Source* Research and development-as-a-service company that Helps Maintainers create new open-source features, fix bugs to decrease technical debt, and address cybersecurity issues.
+We're an *Open-Source* Research and Development-as-a-Service (DaaS) platform to help OSPO  enhance and secure the open-source software they depend upon using an *Engineering Residency* program.
 
 We support *maintainers* in creating new open-source features, fixing bugs to decrease technical debt, and addressing cybersecurity issues. If you're a **maintainer** seeking engineering support for your project, please [contact us](mailto:info@openstudiolabs.com).
 
