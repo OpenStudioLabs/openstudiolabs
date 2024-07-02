@@ -1,10 +1,3 @@
----
-title:  About
-layout:  page
-description:  About
-bodyClass:  page-about
----
-
 [Open Studio Labs](https://OpenStudioLabs.com) - Open Source Research & Development-as-a-Service (DaaS)
 
 # Summary
