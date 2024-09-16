@@ -139,33 +139,34 @@ input, select, textarea {
 
 /* Typography */
 
-	html {
-		font-size: 14pt;
+
+html {
+	font-size: 15pt;
+}
+
+	@media screen and (max-width: 1680px) {
+
+		html {
+			font-size: 12pt;
+		}
+
 	}
 
-		@media screen and (max-width: 1680px) {
+	@media screen and (max-width: 980px) {
 
-			html {
-				font-size: 16pt;
-			}
-
+		html {
+			font-size: 12pt;
 		}
 
-		@media screen and (max-width: 980px) {
+	}
 
-			html {
-				font-size: 16pt;
-			}
+	@media screen and (max-width: 736px) {
 
+		html {
+			font-size: 11pt;
 		}
 
-		@media screen and (max-width: 736px) {
-
-			html {
-				font-size: 14pt;
-			}
-
-		}
+	}
 
 	body {
 		background-color: #ffffff;
