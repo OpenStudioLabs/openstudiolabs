@@ -1,7 +1,5 @@
 # [Open Studio Labs](https://OpenStudioLabs.com)
 
-Open Source *Research & Development-as-a-Service* (DaaS)
-
 ## Summary
 
 We're an *Open-Source* Research and Development-as-a-Service (DaaS) platform to help OSPO  enhance and secure the open-source software they depend upon using an *Engineering Residency* program.
