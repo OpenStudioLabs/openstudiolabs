@@ -437,7 +437,7 @@ html {
 	}
 
 		a:hover {
-			color: #ffb7aa;
+			color: #8a2e39;
 		}
 
 	strong, b {
@@ -2055,7 +2055,7 @@ html {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: rgba(255, 139, 119, 0.1);
+			background-color: rgba(138, 46, 57, 0.1);
 		}
 
 			input[type="submit"]:hover:active,
@@ -2063,7 +2063,7 @@ html {
 			input[type="button"]:hover:active,
 			button:hover:active,
 			.button:hover:active {
-				background-color: rgba(255, 139, 119, 0.25);
+				background-color: rgba(138, 46, 57, 0.25);
 			}
 
 		input[type="submit"].primary,
@@ -2081,7 +2081,7 @@ html {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: rgba(255, 139, 119, 0.5);
+				background-color: rgba(138, 46, 57, 0.5);
 			}
 
 				input[type="submit"].primary:hover:active,
@@ -2089,7 +2089,7 @@ html {
 				input[type="button"].primary:hover:active,
 				button.primary:hover:active,
 				.button.primary:hover:active {
-					background-color: rgba(255, 139, 119, 0.75);
+					background-color: rgba(138, 46, 57, 0.75);
 				}
 
 /* Form */
@@ -2478,6 +2478,7 @@ html {
 			margin: 4rem auto 5rem auto;
 			max-width: 75%;
 		}
+		
 
 			@media screen and (max-width: 1280px) {
 
@@ -2538,7 +2539,7 @@ html {
 				}
 
 			}
-
+			
 /* List */
 
 	ol {
@@ -2986,7 +2987,7 @@ html {
 		}
 
 		.wrapper.style2 {
-			background: #262329;
+			background: #642129;
 		}
 
 		.wrapper.style3 {
@@ -3151,7 +3152,7 @@ html {
 			.spotlights input[type="button"]:hover,
 			.spotlights button:hover,
 			.spotlights .button:hover {
-				background-color: rgba(255, 139, 119, 0.1);
+				background-color: rgba(138, 46, 57, 0.1);
 			}
 
 				.spotlights input[type="submit"]:hover:active,
@@ -3159,7 +3160,7 @@ html {
 				.spotlights input[type="button"]:hover:active,
 				.spotlights button:hover:active,
 				.spotlights .button:hover:active {
-					background-color: rgba(255, 139, 119, 0.25);
+					background-color: rgba(138, 46, 57, 0.25);
 				}
 
 			.spotlights input[type="submit"].primary,
@@ -3177,7 +3178,7 @@ html {
 				.spotlights input[type="button"].primary:hover,
 				.spotlights button.primary:hover,
 				.spotlights .button.primary:hover {
-					background-color: rgba(255, 139, 119, 0.5);
+					background-color: rgba(138, 46, 57, 0.5);
 				}
 
 					.spotlights input[type="submit"].primary:hover:active,
@@ -3185,7 +3186,7 @@ html {
 					.spotlights input[type="button"].primary:hover:active,
 					.spotlights button.primary:hover:active,
 					.spotlights .button.primary:hover:active {
-						background-color: rgba(255, 139, 119, 0.75);
+						background-color: rgba(138, 46, 57, 0.75);
 					}
 
 		.spotlights label {
@@ -3501,7 +3502,7 @@ html {
 			}
 
 		#header.alt {
-			padding: 2rem;
+			padding: 3rem;
 		}
 
 		#header > nav {
@@ -3979,7 +3980,7 @@ html {
 			#banner input[type="button"]:hover,
 			#banner button:hover,
 			#banner .button:hover {
-				background-color: rgba(255, 139, 119, 0.1);
+				background-color: rgba(138, 46, 57, 0.1);
 			}
 
 				#banner input[type="submit"]:hover:active,
@@ -3987,7 +3988,7 @@ html {
 				#banner input[type="button"]:hover:active,
 				#banner button:hover:active,
 				#banner .button:hover:active {
-					background-color: rgba(255, 139, 119, 0.25);
+					background-color: rgba(138, 46, 57, 0.25);
 				}
 
 			#banner input[type="submit"].primary,
@@ -4005,7 +4006,7 @@ html {
 				#banner input[type="button"].primary:hover,
 				#banner button.primary:hover,
 				#banner .button.primary:hover {
-					background-color: rgba(255, 139, 119, 0.5);
+					background-color: rgba(138, 46, 57, 0.5);
 				}
 
 					#banner input[type="submit"].primary:hover:active,
@@ -4013,7 +4014,7 @@ html {
 					#banner input[type="button"].primary:hover:active,
 					#banner button.primary:hover:active,
 					#banner .button.primary:hover:active {
-						background-color: rgba(255, 139, 119, 0.75);
+						background-color: rgba(138, 46, 57, 0.75);
 					}
 
 		#banner label {
@@ -4201,7 +4202,7 @@ html {
 
 		#footer .copyright {
 			background: #3b2164;
-			color: rgba(255, 255, 255, 0.4);
+			color: rgba(255, 255, 255, rgba(255, 255, 255, 0.65));
 			margin-top: 6rem;
 			padding: 4rem 2rem;
 		}
@@ -4306,7 +4307,7 @@ html {
 					#footer .content .icons input[type="button"]:hover,
 					#footer .content .icons button:hover,
 					#footer .content .icons .button:hover {
-						background-color: rgba(255, 139, 119, 0.1);
+						background-color: rgba(138, 46, 57, 0.1);
 					}
 
 						#footer .content .icons input[type="submit"]:hover:active,
@@ -4314,7 +4315,7 @@ html {
 						#footer .content .icons input[type="button"]:hover:active,
 						#footer .content .icons button:hover:active,
 						#footer .content .icons .button:hover:active {
-							background-color: rgba(255, 139, 119, 0.25);
+							background-color: rgba(138, 46, 57, 0.25);
 						}
 
 					#footer .content .icons input[type="submit"].primary,
@@ -4332,7 +4333,7 @@ html {
 						#footer .content .icons input[type="button"].primary:hover,
 						#footer .content .icons button.primary:hover,
 						#footer .content .icons .button.primary:hover {
-							background-color: rgba(255, 139, 119, 0.5);
+							background-color: rgba(138, 46, 57, 0.5);
 						}
 
 							#footer .content .icons input[type="submit"].primary:hover:active,
@@ -4340,7 +4341,7 @@ html {
 							#footer .content .icons input[type="button"].primary:hover:active,
 							#footer .content .icons button.primary:hover:active,
 							#footer .content .icons .button.primary:hover:active {
-								background-color: rgba(255, 139, 119, 0.75);
+								background-color: rgba(138, 46, 57, 0.75);
 							}
 
 				#footer .content .icons label {
