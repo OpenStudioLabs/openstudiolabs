@@ -486,6 +486,7 @@ textarea {
 
 a {
 	color: #512e8a;
+	text-decoration: underline;
 }
 
 a:hover {
