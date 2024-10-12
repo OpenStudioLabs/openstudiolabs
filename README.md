@@ -8,7 +8,7 @@ We support *maintainers* in creating new open-source features, fixing bugs to de
 
 **Aspiring Founding Sponsors**
 
-Calling all *OPSO Owners, OSS Product teams, and Maintainers*, we seek funding sponsors for our inaugural fall 2024 Engineering Residency cohort. 
+Calling all *OPSO Owners, OSS Product teams, and Maintainers*, we seek funding sponsors for our inaugural early 2025 Engineering Residency cohort. 
 
 [Contact us](mailto:info@openstudiolabs.com) today to learn about the benefits of sponsoring.
 
